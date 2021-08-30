@@ -1,4 +1,4 @@
-## QuestPlugin
+## QuestPlugin edited by prince
 
 
 [Language English](#english)
@@ -92,7 +92,8 @@ quest.command.data:
 quest.command.data.gui:
   default: op
 quest.command.data.event:
-  default: opquest.command.data.create:
+  default: op
+quest.command.data.create:
   default: op
 quest.command.data.remove:
   default: op
