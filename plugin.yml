@@ -1,7 +1,7 @@
 name: QuestPlugin
-version: 3.1
-api: 3.11.0
-author: HmmHmmmmm
+version: 3.2
+api: 3.00.0 - 4.00.0
+author: Prince
 main: hmmhmmmm\quest\Quest
 website: https://github.com/HmmHmmmm/QuestPlugin
 depend:
